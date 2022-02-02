@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap");
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+div {
+  font-family: "Shadows Into Light", cursive;
+  font-size: 25px;
+}
+
+.App {
+  background-color: seashell;
+}
+
+
+.title {
+    border-bottom: 2px solid rgb(0, 0, 0);
+    padding-left: 55px;
+}
+
+.cadernoBorda {
+  border-left: 2px solid rgb(0, 0, 0);
+  border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+.linhaBorda {
+  border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+.emptyBorda {
+  width: 40px;
+  border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+titleBorda {
+  border-left: 2px solid rgb(0, 0, 0);
+  border-bottom: 2px solid rgb(0, 0, 0);
+}
